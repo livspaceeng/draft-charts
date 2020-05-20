@@ -1,5 +1,9 @@
 name: maven
 description: A Helm chart for Kubernetes
 apiVersion: v1
+<<<<<<< HEAD
 version: latest
+=======
+version: 0.1.0-SNAPSHOT
+>>>>>>> 555fb399fa2a2e71719a95eac073fe6160e11377
 icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png

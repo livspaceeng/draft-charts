@@ -2,4 +2,8 @@ name: javascript
 description: A Helm chart for Kubernetes
 apiVersion: v1
 version: latest
+<<<<<<< HEAD
 icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
+=======
+icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/nodejs.png
+>>>>>>> 555fb399fa2a2e71719a95eac073fe6160e11377
