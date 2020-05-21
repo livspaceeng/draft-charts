@@ -1,5 +1,4 @@
 name: ruby
 description: A Helm chart for Kubernetes
 apiVersion: v1
-version: latest
 version: v0.1.0
